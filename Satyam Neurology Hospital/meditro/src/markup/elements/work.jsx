@@ -15,7 +15,7 @@ class aboutSection extends Component{
 				<section className="section-area section-sp5 work-area" style={{backgroundImage: "url("+bg1+")", backgroundRepeat:" no-repeat", backgroundPosition: "center", backgroundSize: "100%"}}>
 					<div className="container-sm">
 						<div className="heading-bx text-center">
-							<h6 className="title-ext text-secondary">Working Process</h6>
+							<h6 className="title-ext header-text">Working Process</h6>
 							<h2 className="title">How we works?</h2>
 						</div>
 						<div className="row justify-content-center">
@@ -23,7 +23,7 @@ class aboutSection extends Component{
 								<div className="work-bx">
 									<div className="work-num-bx">01</div>
 									<div className="work-content">
-										<h5 className="title text-secondary mb-10">Make Appointmnet</h5>
+										<h5 className="title  header-text mb-10">Make Appointmnet</h5>
 										<p>Firstly book an appointment from website so it is easy proceed further</p>
 									</div>
 									<Link to="/booking" className="btn btn-primary light">View More <i className="btn-icon-bx fas fa-chevron-right"></i></Link>
@@ -51,9 +51,9 @@ class aboutSection extends Component{
 							</div>
 						</div>
 					</div>
-					<img className="pt-img1 animate1" src={ptImg1} alt=""/>
+					{/* <img className="pt-img1 animate1" src={ptImg1} alt=""/>
 					<img className="pt-img2 animate2" src={ptImg2} alt=""/>
-					<img className="pt-img3 animate3" src={ptImg3} alt=""/>
+					<img className="pt-img3 animate3" src={ptImg3} alt=""/> */}
 				</section>
 				
 			</>

@@ -4,7 +4,7 @@ import Slider from "react-slick";
 
 // Import Images
 import lingBg2 from "../../images/background/line-bg2.png"
-import animate1 from "../../images/shap/trangle-orange.png"
+import animate1 from "../../images/shap/trangle-green.png"
 import animate2 from "../../images/shap/square-dots-orange.png"
 import animateRotate from "../../images/shap/line-circle-blue.png"
 import animateWave from "../../images/shap/wave-blue.png"

@@ -3,15 +3,16 @@ $enable-deprecation-messages: false;
 $ignore-warning             : true;
 
 // stylelint-disable-next-line scss/dollar-variable-default
-$primary   : #565acf;
-$secondary : #f17732 !default;
+$primary   : #ddb43d;
+$primary2   : #1a4933;
+$secondary : #ddb43d !default;
 $success   : #209f84 !default;
 $info      : #2754e6 !default;
 $warning   : #fe970e !default;
 $danger    : #f72b50 !default;
 $light     : #fff    !default;
 $bluelight : #f1f6ff !default;
-$dark      : #1f2278;
+$dark      : #1a4933;
 $gray      : #666666 !default;
 
 // Body

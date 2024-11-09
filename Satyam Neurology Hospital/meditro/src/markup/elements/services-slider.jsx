@@ -148,10 +148,10 @@ class ServicesSliderSection extends Component{
 							</Slider>
 						</div>	 
 					</div>
-					<img className="pt-img1 animate-rotate" src={lineCircleBlue} alt=""/>
+					{/* <img className="pt-img1 animate-rotate" src={lineCircleBlue} alt=""/>
 					<img className="pt-img2 animate2" src={squareDotsOrange} alt=""/>
 					<img className="pt-img3 animate-wave" src={waveBlue} alt=""/>
-					<img className="pt-img4 animate1" src={squareRotate} alt=""/>
+					<img className="pt-img4 animate1" src={squareRotate} alt=""/> */}
 				</section>
 				
 			</>

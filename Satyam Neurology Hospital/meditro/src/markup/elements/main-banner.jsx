@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 // Import Images
 import bg1 from '../../images/main-banner/bg1.jpg';
 import doctorImg from '../../images/mainlogo.png';
-import ptImg1 from '../../images/shap/trangle-orange.png';
+import ptImg1 from '../../images/shap/trangle-green.png';
 import ptImg2 from '../../images/shap/square-blue.png';
 import ptImg3 from '../../images/shap/chicle-blue-2.png';
 import ptImg4 from '../../images/shap/plus-orange.png';

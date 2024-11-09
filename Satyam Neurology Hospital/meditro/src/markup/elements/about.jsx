@@ -29,7 +29,7 @@ class aboutSection extends Component{
 							</div>
 							<div className="col-lg-6 mb-30">
 								<div className="heading-bx">
-									<h6 className="title-ext text-secondary">About Us</h6>
+									<h6 className="title-ext header-text">About Us</h6>
 									<h2 className="title">The Great Place Of Medical Hospital Center</h2>
 									<p>We provide the special tips and advice’s of heath care treatment and high level of best technology involve in the our hospital.</p>
 								</div>
@@ -104,11 +104,11 @@ class aboutSection extends Component{
 							</div>
 						</div>
 					</div>
-					<img className="pt-img1 animate-wave" src={ptImg1} alt=""/>
+					{/* <img className="pt-img1 animate-wave" src={ptImg1} alt=""/>
 					<img className="pt-img2 animate2" src={ptImg2} alt=""/>
 					<img className="pt-img3 animate-rotate" src={ptImg5} alt=""/>
 					<img className="pt-img4 animate-wave" src={ptImg4} alt=""/>
-					<img className="pt-img5 animate2" src={ptImg5} alt=""/>
+					<img className="pt-img5 animate2" src={ptImg5} alt=""/> */}
 				</section>
 				
 			</>

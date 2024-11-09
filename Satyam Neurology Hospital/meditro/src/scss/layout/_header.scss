@@ -84,7 +84,7 @@
 				a{
 					font-weight: 700;
 					font-size: 20px;
-					color: #1f2278;
+					color: #1a4933;
 					display: flex;
 					align-items: center;
 					i{
@@ -92,10 +92,10 @@
 						height: 42px;
 						text-align: center;
 						line-height: 42px;
-						background-color: rgba($primary,0.1);
+						background-color: #ddb43d;
 						font-size: 18px;
 						border-radius: $border-radius-base;
-						color:$primary;
+						color:white;
 						margin-right: 15px;
 					}
 				}
@@ -258,7 +258,7 @@
 				color: $secondary;
 			}
 			&>a {
-				color: #1f2278;
+				color: #214833;
 				font-size: 16px;
 				padding: 45px 20px;
 				cursor: pointer;
