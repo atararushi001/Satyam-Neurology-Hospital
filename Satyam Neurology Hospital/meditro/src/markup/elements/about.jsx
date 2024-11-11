@@ -30,7 +30,7 @@ class aboutSection extends Component{
 							<div className="col-lg-6 mb-30">
 								<div className="heading-bx">
 									<h6 className="title-ext header-text">About Us</h6>
-									<h2 className="title">The Great Place Of Medical Hospital Center</h2>
+									<h2 className="title">Bhavnagar's Premier Center for Advanced Neurology</h2>
 									<p>We provide the special tips and advice’s of heath care treatment and high level of best technology involve in the our hospital.</p>
 								</div>
 								<div className="row">

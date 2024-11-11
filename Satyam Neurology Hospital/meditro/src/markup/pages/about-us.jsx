@@ -23,7 +23,7 @@ class AboutUs extends Component{
 				<div className="page-content bg-white">
 					
 					<div className="banner-wraper">
-						<div className="page-banner" style={{backgroundImage: "url("+bnrImg1+")"}}>
+						<div className="page-banner">
 							<div className="container">
 								<div className="page-banner-entry text-center">
 									<h1>About Us</h1>
@@ -35,9 +35,9 @@ class AboutUs extends Component{
 									</nav>
 								</div>
 							</div>
-							<img className="pt-img1 animate-wave" src={waveBlue} alt=""/>
+							{/* <img className="pt-img1 animate-wave" src={waveBlue} alt=""/>
 							<img className="pt-img2 animate2" src={circleDots} alt=""/>
-							<img className="pt-img3 animate-rotate" src={plusBlue} alt=""/>
+							<img className="pt-img3 animate-rotate" src={plusBlue} alt=""/> */}
 						</div>
 					</div>
 					

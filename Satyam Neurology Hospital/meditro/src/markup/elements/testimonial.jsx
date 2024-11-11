@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import Slider from "react-slick";
 
 // Import Images
-import testShape from "../../images/testimonials/shape.png"
+import testShape from "../../images/testimonials/shape2.png"
 import testPic1 from "../../images/testimonials/pic1.jpg"
 import testPic2 from "../../images/testimonials/pic2.jpg"
 import testPic3 from "../../images/testimonials/pic3.jpg"
@@ -56,7 +56,7 @@ class testimonialSection extends Component{
 									<div className="slider-item">
 										<div className="testimonial-bx">
 											<div className="testimonial-content">
-												<p>Dr. Prakash and Dr. Kirti are very humble and very talented they provide us best solution related to our problems.</p>
+												<p>Best Headache, Migraine, Epilepsy, Stroke, Vertigo, GB Syndrome/GBS, Myasthenia, Multiple sclerosis, back pain, neck pain, EEG, EMG, NCS doctor in Bhavnagar. Best Neuro hospital with NEURO ICU/ NEURO CRITICARE with Plasmapharesis/Plasma Exchange Unit in Gujarat / Bhavnagar.</p>
 											</div>
 											<div className="client-info">
 												<h5 className="name">Mr. Rajiv</h5>
@@ -70,7 +70,21 @@ class testimonialSection extends Component{
 									<div className="slider-item">
 										<div className="testimonial-bx">
 											<div className="testimonial-content">
-												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecena ssuspendisse ultrices gravida.</p>
+												<p>I recently took my grandmother to Satyam Neurology Hospital, and I am incredibly impressed with the care we received. Dr. Prakash Bhatt is an exceptional neurologist who combines deep expertise with genuine compassion. He took the time to thoroughly explain the diagnosis and treatment options, which gave us great confidence.</p>
+											</div>
+											<div className="client-info">
+												<h5 className="name">Karan Jalela</h5>
+												<p>patient</p>
+											</div>
+											<div className="quote-icon">
+												<i className="fas fa-quote-left"></i>
+											</div>
+										</div>
+									</div>
+									<div className="slider-item">
+										<div className="testimonial-bx">
+											<div className="testimonial-content">
+												<p>Satyam Neurology Hospital, led by the highly skilled Dr. Prakash Bhatt, stands out as the premier destination for neurological care in Bhavnagar and Gujarat. Whether you’re seeking treatment for headaches, migraines, epilepsy, strokes, vertigo, Guillain-Barré Syndrome (GBS), myasthenia gravis, multiple sclerosis, back pain, or neck pain, you’ll find expert care here. Equipped with advanced diagnostics like EEG, EMG, and NCS.</p>
 											</div>
 											<div className="client-info">
 												<h5 className="name">John Deo</h5>
@@ -81,7 +95,7 @@ class testimonialSection extends Component{
 											</div>
 										</div>
 									</div>
-									<div className="slider-item">
+									{/* <div className="slider-item">
 										<div className="testimonial-bx">
 											<div className="testimonial-content">
 												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecena ssuspendisse ultrices gravida.</p>
@@ -108,21 +122,7 @@ class testimonialSection extends Component{
 												<i className="fas fa-quote-left"></i>
 											</div>
 										</div>
-									</div>
-									<div className="slider-item">
-										<div className="testimonial-bx">
-											<div className="testimonial-content">
-												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecena ssuspendisse ultrices gravida.</p>
-											</div>
-											<div className="client-info">
-												<h5 className="name">John Deo</h5>
-												<p>patient</p>
-											</div>
-											<div className="quote-icon">
-												<i className="fas fa-quote-left"></i>
-											</div>
-										</div>
-									</div>
+									</div> */}
 								</Slider>
 							</div>	 
 						</div>	 

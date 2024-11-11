@@ -33,8 +33,8 @@ class aboutSection extends Component{
 								<div className="work-bx active">
 									<div className="work-num-bx">02</div>
 									<div className="work-content">
-										<h5 className="title text-secondary mb-10">Take Treatment</h5>
-										<p>You can take the tretment of your problem related to the neural problem with Dr. Prakash</p>
+										<h5 className="title text-secondary mb-10"> Consult to Doctor</h5>
+										<p>After appointment, visit to clinic and make a diagnosis of your neurological illnesses</p>
 									</div>
 									<Link to="/services" className="btn btn-primary light">View More <i className="btn-icon-bx fas fa-chevron-right"></i></Link>
 								</div>
@@ -43,8 +43,8 @@ class aboutSection extends Component{
 								<div className="work-bx">
 									<div className="work-num-bx">03</div>
 									<div className="work-content">
-										<h5 className="title text-secondary mb-10">Registration</h5>
-										<p>Register your self so that doctor can know about your concern and you can discuss that</p>
+										<h5 className="title text-secondary mb-10">Take Treatment</h5>
+										<p>You can take the tretment of your problem related to the neural problem with Dr. Prakash</p>
 									</div>
 									<Link to="/contact-us" className="btn btn-primary light">View More <i className="btn-icon-bx fas fa-chevron-right"></i></Link>
 								</div>

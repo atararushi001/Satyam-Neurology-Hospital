@@ -20,7 +20,7 @@ class aboutSection extends Component{
 		return(
 			<>
 				
-				<section className="section-area account-wraper1">
+				{/* <section className="section-area account-wraper1">
 					<div className="container-fluid">
 						<div className="appointment-inner section-sp2" style={{backgroundImage: "url("+lineBg+")", backgroundRepeat:" no-repeat", backgroundPosition: "20px 140px"}}>
 							<div className="container">
@@ -52,7 +52,7 @@ class aboutSection extends Component{
 						</div>
 						
 					</div>
-				</section>
+				</section> */}
 			
 			</>
 		);
