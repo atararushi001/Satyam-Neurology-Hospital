@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Link } from 'react-router-dom';
 
 // Images
-import Logo from '../../images/logo1.png';
+import Logo from '../../images/mainlogo.png';
 import footerBg from '../../images/background/footer.jpg';
 import ptImg1 from '../../images/shap/wave-blue.png';
 import ptImg2 from '../../images/shap/circle-dots.png';
@@ -20,7 +20,8 @@ class aboutSection extends Component{
 		return(
 			<>
 				
-				<footer className="footer" style={{backgroundImage: "url("+footerBg+")"}}>
+				{/* <footer className="footer" style={{backgroundImage: "url("+footerBg+")"}}> */}
+				<footer className="footer" >
 					<div className="footer-top">
 						<div className="container">
 							<div className="row">
@@ -49,7 +50,6 @@ class aboutSection extends Component{
 											<li><Link to="/services"><span>Services</span></Link></li>
 											<li><Link to="/booking"><span>Booking</span></Link></li>
 											<li><Link to="/faq"><span>Faq's</span></Link></li>
-											{/* <li><Link to="/blog-grid"><span>Blogs</span></Link></li> */}
 											<li><Link to="/team"><span>Out Team</span></Link></li>
 										</ul>
 									</div>

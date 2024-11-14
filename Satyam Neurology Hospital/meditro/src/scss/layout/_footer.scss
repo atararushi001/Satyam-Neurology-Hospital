@@ -111,7 +111,7 @@ footer{
 		}
 	}
 	.footer-top{
-		padding: 200px 0 20px;
+		padding: 20px 0 20px;
 		@include respond('laptop-small'){
 			padding: 150px 0 0;			
 		}
@@ -190,7 +190,7 @@ footer{
 	
 	&:after{
 		content: "";
-		background-image: url(../../images/background/footer-shape.png);
+		// background-image: url(../../images/background/footer-shape.png);
 		position: absolute;
 		top: 0;
 		left: 0;

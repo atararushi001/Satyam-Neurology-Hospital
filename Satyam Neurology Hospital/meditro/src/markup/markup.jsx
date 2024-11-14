@@ -13,6 +13,7 @@ import Footer from "./layout/footer";
 import Index from './pages/index';
 import AboutUs from './pages/about-us';
 import Team from './pages/team';
+import Doctor from './pages/doctor';
 import Services from './pages/services';
 import ServiceDetail from './pages/service-detail';
 import FormLogin from './pages/form-login';
@@ -38,7 +39,7 @@ class Markup extends Component{
 						<Route element={<ThemeLayout />}>
 							<Route path='/' element={<Index />} />
 							<Route path='/about-us' element={<AboutUs />} />
-							<Route path='/team' element={<Team />} />
+							<Route path='/doctors' element={<Doctor />} />
 							<Route path='/services' element={<Services />} />
 							<Route path='/service-detail' element={<ServiceDetail />} />
 							<Route path='/faq' element={<Faq />} />

@@ -75,9 +75,9 @@ const Header = () => {
 					linkName: 'about-us'
 				},
 				{
-					id: 'team',
-					displayName: 'Our Team',
-					linkName: 'team'
+					id: 'doctors',
+					displayName: 'Our doctors',
+					linkName: 'doctors'
 				},
 				{
 					id: 'faq',
